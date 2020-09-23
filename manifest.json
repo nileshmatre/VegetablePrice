@@ -1,7 +1,7 @@
 {
-"name":"Measure Material",
-"short_name":"Material",
-    "lang":"en-US",
+"name":"भाजी मार्केट",
+"short_name":"मार्केट",
+    "lang":"mr",
     "start_url":"./index.html",
     "display":"fullscreen",
     "background_color":"#4a148c",
