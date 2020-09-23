@@ -1,7 +1,7 @@
 {
 "name":"भाजी मार्केट",
 "short_name":"मार्केट",
-    "lang":"mr",
+    "lang":"en-US",
     "start_url":"./index.html",
     "display":"fullscreen",
     "background_color":"#4a148c",
