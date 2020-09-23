@@ -1,4 +1,13 @@
- AOS.init({
+ window.onload = () => {
+  'use strict';
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+             .register('./sw.js');
+  }
+}
+
+AOS.init({
  	duration: 800,
  	easing: 'slide'
  });
