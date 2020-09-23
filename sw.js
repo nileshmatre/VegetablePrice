@@ -2,8 +2,11 @@ var cacheName = 'agprice';
 var filesToCache = [
   './',
   './index.html',
-  './css/style.css',
-  './js/main.js'
+   './fonts/*',
+  './css/*',
+  './js/*',
+   './images/*',
+   './scss/*'
 ];
 
 /* Start the service worker and cache all of the app's content */
